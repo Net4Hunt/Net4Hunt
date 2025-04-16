@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <br>✅DAY – 1   Introduction, IDE Installation and Setting the Tone for 30 Days Challenge
 <br>✅DAY – 2  Data types and variables, Your first C Program
 <br>✅DAY – 3   Address Variables and Storage Classes
-<br>✅DAY – 4  How to Write functions<br>
+<br>✅DAY – 4  How to Write functions
 <br>✅DAY – 5  Understanding Microcontroller programming
 <br>✅DAY – 6  Build Process and Analyzing Embedded C Code
 <br>✅DAY – 7  Floating Point data and Scanf
